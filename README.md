@@ -4,4 +4,5 @@ This dataset consist of 60,000 training images and 10,000 test images,where the 
 The images are converted to gray scale before being processed.
 MaxPool is to down-sample the image, reducing its dimensionality and allowing for assumptions to be made about features contained in the sub-regions binned.
 The model is trained for specific number of epochs to get the maximum accuracy. 
+Link to download the dataset https://www.kaggle.com/zalando-research/fashionmnist
 
